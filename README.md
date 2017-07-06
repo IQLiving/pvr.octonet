@@ -38,3 +38,4 @@ On Windows, you should add `-G "NMake Makefiles"` to the CMake invocation. Make 
 
 Finally, build the plugin with `make` (or `nmake` on Windows). The plugin should be in an `install`
 subdirectory.
+ 
